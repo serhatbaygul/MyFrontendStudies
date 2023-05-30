@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Serhat Baygül",
+        "department":"Bilişim",
+        "salary":"30000"
+    },
+    {
+        "name":"Oruçhan Asar",
+        "department":"Bilişim",
+        "salary":"30000"
+    },
+    {
+        "name":"Muhammet Baykal",
+        "department":"Hukuk",
+        "salary":"30000"
+    }
+]
