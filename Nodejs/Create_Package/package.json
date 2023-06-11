@@ -4,8 +4,8 @@
   "description": "This is an experimental project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "serhat": "echo'My name is Serhat'"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serhat": "echo 'My name is Serhat'"
   },
   "keywords": [
     "experimental",
