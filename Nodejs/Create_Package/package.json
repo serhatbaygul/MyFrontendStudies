@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "baygul": "echo 'my surname is baygul'",
     "serhat": "echo 'My name is Serhat'"
   },
   "keywords": [
