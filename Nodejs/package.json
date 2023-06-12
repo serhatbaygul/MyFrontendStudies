@@ -1,15 +1,17 @@
 {
-  "name": "serhat-baygul",
+  "name": "using_babel",
   "version": "1.0.0",
-  "description": "This is an experimental project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "experimental",
-    "package"
-  ],
-  "author": "Serhat Baygul",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.22.5"
+  }
 }
