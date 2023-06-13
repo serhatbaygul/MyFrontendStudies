@@ -6,12 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "baygul": "echo 'my surname is baygul'",
-    "serhat": "echo 'My name is Serhat'"
+    "serhat": "echo 'My name is Serhat'",
+    "start": "node index.js"
   },
   "keywords": [
     "experimental",
     "package"
   ],
   "author": "Serhat Baygul",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  }
 }
